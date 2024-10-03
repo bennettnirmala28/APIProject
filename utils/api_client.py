@@ -1,0 +1,8 @@
+selenium = "Version"
+requests = ""
+pytest =""
+"pip install - r requirements.txt"
+get_user =""
+create_user=""
+BASE_URL =""
+APIClient.BASE_URL=""
